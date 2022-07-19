@@ -1,5 +1,5 @@
-This repository contains the code for [web3-life site/blog](https://web3.life).
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d68543d9-3319-4c46-83b9-42fdbba2b984/deploy-status)](https://app.netlify.com/sites/web3-life/deploys)
+This repository contains the code for [pm3-life site/blog](https://pm3.life).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d68543d9-3319-4c46-83b9-42fdbba2b984/deploy-status)](https://app.netlify.com/sites/pm3-life/deploys)
 ## Installation
 ```
 $ yarn install
